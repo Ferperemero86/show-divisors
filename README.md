@@ -7,4 +7,4 @@
  
  2.Technology used.
  
-  -HTML,CSS,JAVASCRIPT(ES6).
+  - HTML,CSS,JAVASCRIPT(ES6).
